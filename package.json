@@ -1,0 +1,38 @@
+{
+  "name": "sangoes-rn-tools",
+  "version": "0.0.1",
+  "description": "react-native-tools rn-tools rn tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrychir/sangoes-rn-tools.git"
+  },
+  "keywords": [
+    "react-native-tools",
+    "rn-tools",
+    "rn",
+    "tools",
+    "javascript"
+  ],
+  "author": "jerrychir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerrychir/sangoes-rn-tools/issues"
+  },
+  "homepage": "https://github.com/jerrychir/sangoes-rn-tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-native": "^0.56.0"
+  },
+  "devDependencies": {
+    "react": "^16.4.2",
+    "react-native": "^0.56.0"
+  }
+}

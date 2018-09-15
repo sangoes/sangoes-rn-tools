@@ -1,6 +1,6 @@
 {
   "name": "sangoes-rn-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react-native-tools rn-tools rn tools",
   "main": "index.js",
   "scripts": {
